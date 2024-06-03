@@ -3,7 +3,7 @@ package cache
 import (
 	"fmt"
 
-	"github.com/Pacific73/gorm-cache/config"
+	"github.com/GuoxinL/gorm-cache/config"
 	"github.com/redis/go-redis/v9"
 )
 
